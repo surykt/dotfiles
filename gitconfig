@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cardosocarlosalan@gmail.com
+	name = Carlos Cardoso
